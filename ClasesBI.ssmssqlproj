@@ -1,0 +1,178 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ClasesBI">
+  <Items>
+    <LogicalFolder Name="Conexiones" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="HP-14:HP-14\eduar">
+          <Created>2020-08-25T00:02:34.9322549-05:00</Created>
+          <Type>SQL</Type>
+          <Server>HP-14</Server>
+          <UserName />
+          <Authentication>Autenticación de Windows</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Consulta</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Consultas" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="articullos02.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HP-14:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HP-14</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>articullos02.sql</FullPath>
+        </FileNode>
+        <FileNode Name="articulos_fechas.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HP-14:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HP-14</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>articulos_fechas.sql</FullPath>
+        </FileNode>
+        <FileNode Name="articulos00_pract-34.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HP-14:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HP-14</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>articulos00_pract-34.sql</FullPath>
+        </FileNode>
+        <FileNode Name="articulos01.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HP-14:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HP-14</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>articulos01.sql</FullPath>
+        </FileNode>
+        <FileNode Name="calendario.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HP-14:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HP-14</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>calendario.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Cubos.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HP-14:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HP-14</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Cubos.sql</FullPath>
+        </FileNode>
+        <FileNode Name="intellinet 4.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HP-14:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HP-14</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>intellinet 4.sql</FullPath>
+        </FileNode>
+        <FileNode Name="intellinet.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HP-14:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HP-14</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>intellinet.sql</FullPath>
+        </FileNode>
+        <FileNode Name="intellinet2.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HP-14:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HP-14</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>intellinet2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Particiones.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HP-14:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HP-14</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Particiones.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Particiones_Funciones.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HP-14:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HP-14</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Particiones_Funciones.sql</FullPath>
+        </FileNode>
+        <FileNode Name="PivoteoUnpivoteo.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HP-14:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HP-14</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>PivoteoUnpivoteo.sql</FullPath>
+        </FileNode>
+        <FileNode Name="procedimientos_fechas.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HP-14:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HP-14</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>procedimientos_fechas.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Pruebas_CrystalReposts.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HP-14:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HP-14</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Pruebas_CrystalReposts.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery1.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HP-14:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HP-14</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery1.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery2.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HP-14:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HP-14</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery3.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HP-14:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HP-14</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery3.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery4.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HP-14:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HP-14</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery4.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery5.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HP-14:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HP-14</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery5.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery6.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HP-14:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HP-14</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery6.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery7.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HP-14:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HP-14</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery7.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery8.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HP-14:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HP-14</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery8.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery9.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HP-14:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HP-14</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery9.sql</FullPath>
+        </FileNode>
+        <FileNode Name="tipos_tablas_en_memoria.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HP-14:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HP-14</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>tipos_tablas_en_memoria.sql</FullPath>
+        </FileNode>
+        <FileNode Name="XML.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:HP-14:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>HP-14</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>XML.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Varios" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
